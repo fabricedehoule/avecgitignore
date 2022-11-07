@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitIgnore (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GitIgnore (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
